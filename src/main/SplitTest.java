@@ -54,6 +54,7 @@ public class SplitTest {
             s=s.replaceAll("0+?$","");
             s=s.replaceAll("[.]$","");
             System.out.print("test001");
+            System.out.print("test002");
         }
         return s;
 
