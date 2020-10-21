@@ -55,6 +55,7 @@ public class SplitTest {
             s=s.replaceAll("[.]$","");
             System.out.print("test001");
             System.out.print("test002");
+            System.out.print("dev修改");
         }
         return s;
 
